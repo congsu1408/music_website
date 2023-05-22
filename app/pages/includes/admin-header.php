@@ -18,7 +18,7 @@
 	</style>
 	<header style="background-color: #3e344e; color: white;">
 		<div class="logo-holder">
-			<a href="<?=ROOT?>"><img class="logo" src="<?=ROOT?>/assets/images/logo.jpg"></a>
+			<a href="<?=ROOT?>"><img class="logo" src="<?=ROOT?>/assets/images/logoweb.jpg"></a>
 		</div>
 		<div class="header-div">
 			<div class="main-title">

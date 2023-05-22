@@ -39,7 +39,7 @@
 		<?php endif;?>
 
 			<form method="post">
-				<center><img src="assets/images/logo.jpg" style="width: 150px;border-radius: 50%;border: solid thin #ccc;"></center>
+				<center><img src="assets/images/logoweb.jpg" style="width: 150px;border-radius: 50%;border: solid thin #ccc;"></center>
 				<h2>Login</h2>
 				<input value="<?=set_value('email')?>" class="my-1 form-control" type="email" name="email" placeholder="Email">
 				<input value="<?=set_value('password')?>" class="my-1 form-control" type="password" name="password" placeholder="Password">
